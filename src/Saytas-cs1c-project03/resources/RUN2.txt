@@ -1,0 +1,128 @@
+-----------------------------------------------------
+-----------------------------------------------------
+Test file: resources/popEmptyStackOfLinks.txt
+
+NOTES: Testing adding and removing items from back
+       and forward stacks.
+-----------------------------------------------------
+At line #1: link www.google.com
+Current Link: www.google.com
+
+Back with 0 links:
+[]
+
+Forward with 0 links:
+[]
+
+
+At line #2: link news.google.com
+Current Link: news.google.com
+
+Back with 1 links:
+[www.google.com, ]
+
+Forward with 0 links:
+[]
+
+
+At line #3: link www.educationnews.org
+Current Link: www.educationnews.org
+
+Back with 2 links:
+[news.google.com, www.google.com, ]
+
+Forward with 0 links:
+[]
+
+
+At line #4: link www.nytimes.com
+Current Link: www.nytimes.com
+
+Back with 3 links:
+[www.educationnews.org, news.google.com, www.google.com, ]
+
+Forward with 0 links:
+[]
+
+
+At line #5: link www.nytimes.com/pages/education
+Current Link: www.nytimes.com/pages/education
+
+Back with 4 links:
+[www.nytimes.com, www.educationnews.org, news.google.com, www.google.com, ]
+
+Forward with 0 links:
+[]
+
+
+At line #6: back
+Current Link: www.nytimes.com
+
+Back with 3 links:
+[www.educationnews.org, news.google.com, www.google.com, ]
+
+Forward with 1 links:
+[www.nytimes.com/pages/education, ]
+
+
+At line #7: back
+Current Link: www.educationnews.org
+
+Back with 2 links:
+[news.google.com, www.google.com, ]
+
+Forward with 2 links:
+[www.nytimes.com, www.nytimes.com/pages/education, ]
+
+
+At line #8: back
+Current Link: news.google.com
+
+Back with 1 links:
+[www.google.com, ]
+
+Forward with 3 links:
+[www.educationnews.org, www.nytimes.com, www.nytimes.com/pages/education, ]
+
+
+At line #9: back
+Current Link: www.google.com
+
+Back with 0 links:
+[]
+
+Forward with 4 links:
+[news.google.com, www.educationnews.org, www.nytimes.com, www.nytimes.com/pages/education, ]
+
+
+At line #10: back
+Current Link: www.google.com
+
+Back with 0 links:
+[]
+
+Forward with 4 links:
+[news.google.com, www.educationnews.org, www.nytimes.com, www.nytimes.com/pages/education, ]
+
+
+At line #11: back
+Current Link: www.google.com
+
+Back with 0 links:
+[]
+
+Forward with 4 links:
+[news.google.com, www.educationnews.org, www.nytimes.com, www.nytimes.com/pages/education, ]
+
+
+
+At the end of test file resources/popEmptyStackOfLinks.txt
+Current Link: www.google.com
+
+Back with 0 links:
+[]
+
+Forward with 4 links:
+[news.google.com, www.educationnews.org, www.nytimes.com, www.nytimes.com/pages/education, ]
+
+Done with BrowserNavigation.

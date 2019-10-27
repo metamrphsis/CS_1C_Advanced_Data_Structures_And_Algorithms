@@ -1,0 +1,65 @@
+-----------------------------------------------------
+-----------------------------------------------------
+Test file: resources/music_genre_subset.json
+
+NOTES: Search and deletion of songs from the inventory
+
+----------------------------------------------------
+
+
+Song list
+"Hard" number of unique items (i.e. mSizeHard) = 10
+"Soft" number of unique items (i.e. mSize) = 10
+
+Testing traversing "hard" tree:
+(Don't Fear) The Reaper, 0:5:8, Blue Oyster Cult, classic pop and rock Dance The Night Away, 0:2:39, Blue Oyster Cult, classic pop and rock Debbie Denise, 0:4:11, Blue Oyster Cult, classic pop and rock Ginger Snaps - Original, 0:1:35, Blue Oyster Cult, classic pop and rock Mes Dames Sarat, 0:4:7, Blue Oyster Cult, classic pop and rock Morning Final, 0:4:15, Blue Oyster Cult, classic pop and rock Out Of Stadion - Original, 0:1:22, Blue Oyster Cult, classic pop and rock Screams, 0:3:10, Blue Oyster Cult, classic pop and rock The Revenge Of Vera Gemini, 0:3:51, Blue Oyster Cult, classic pop and rock True Confessions, 0:2:58, Blue Oyster Cult, classic pop and rock
+
+Testing traversing "soft" inventory:
+(Don't Fear) The Reaper, 0:5:8, Blue Oyster Cult, classic pop and rock Dance The Night Away, 0:2:39, Blue Oyster Cult, classic pop and rock Debbie Denise, 0:4:11, Blue Oyster Cult, classic pop and rock Ginger Snaps - Original, 0:1:35, Blue Oyster Cult, classic pop and rock Mes Dames Sarat, 0:4:7, Blue Oyster Cult, classic pop and rock Morning Final, 0:4:15, Blue Oyster Cult, classic pop and rock Out Of Stadion - Original, 0:1:22, Blue Oyster Cult, classic pop and rock Screams, 0:3:10, Blue Oyster Cult, classic pop and rock The Revenge Of Vera Gemini, 0:3:51, Blue Oyster Cult, classic pop and rock True Confessions, 0:2:58, Blue Oyster Cult, classic pop and rock
+
+Enter the song title to be searched:
+
+classic
+
+The song title 'classic' is not found!
+
+
+The first and the last songs:
+The first item: (Don't Fear) The Reaper, 0:5:8, Blue Oyster Cult, classic pop and rock
+The last item: True Confessions, 0:2:58, Blue Oyster Cult, classic pop and rock
+
+Deleting one song from the store:
+
+
+The songs list after the deletion:
+"Hard" number of unique items (i.e. mSizeHard) = 10
+"Soft" number of unique items (i.e. mSize) = 9
+
+Testing traversing "hard" tree:
+(Don't Fear) The Reaper, 0:5:8, Blue Oyster Cult, classic pop and rock Dance The Night Away, 0:2:39, Blue Oyster Cult, classic pop and rock Debbie Denise, 0:4:11, Blue Oyster Cult, classic pop and rock Ginger Snaps - Original, 0:1:35, Blue Oyster Cult, classic pop and rock Mes Dames Sarat, 0:4:7, Blue Oyster Cult, classic pop and rock Morning Final, 0:4:15, Blue Oyster Cult, classic pop and rock Out Of Stadion - Original, 0:1:22, Blue Oyster Cult, classic pop and rock Screams, 0:3:10, Blue Oyster Cult, classic pop and rock The Revenge Of Vera Gemini, 0:3:51, Blue Oyster Cult, classic pop and rock True Confessions, 0:2:58, Blue Oyster Cult, classic pop and rock
+
+Testing traversing "soft" inventory:
+(Don't Fear) The Reaper, 0:5:8, Blue Oyster Cult, classic pop and rock Dance The Night Away, 0:2:39, Blue Oyster Cult, classic pop and rock Debbie Denise, 0:4:11, Blue Oyster Cult, classic pop and rock Ginger Snaps - Original, 0:1:35, Blue Oyster Cult, classic pop and rock Morning Final, 0:4:15, Blue Oyster Cult, classic pop and rock Out Of Stadion - Original, 0:1:22, Blue Oyster Cult, classic pop and rock Screams, 0:3:10, Blue Oyster Cult, classic pop and rock The Revenge Of Vera Gemini, 0:3:51, Blue Oyster Cult, classic pop and rock True Confessions, 0:2:58, Blue Oyster Cult, classic pop and rock
+
+
+Deleting one more song from the store:
+
+
+The songs list after one more deletion:
+"Hard" number of unique items (i.e. mSizeHard) = 10
+"Soft" number of unique items (i.e. mSize) = 8
+
+Testing traversing "hard" tree:
+(Don't Fear) The Reaper, 0:5:8, Blue Oyster Cult, classic pop and rock Dance The Night Away, 0:2:39, Blue Oyster Cult, classic pop and rock Debbie Denise, 0:4:11, Blue Oyster Cult, classic pop and rock Ginger Snaps - Original, 0:1:35, Blue Oyster Cult, classic pop and rock Mes Dames Sarat, 0:4:7, Blue Oyster Cult, classic pop and rock Morning Final, 0:4:15, Blue Oyster Cult, classic pop and rock Out Of Stadion - Original, 0:1:22, Blue Oyster Cult, classic pop and rock Screams, 0:3:10, Blue Oyster Cult, classic pop and rock The Revenge Of Vera Gemini, 0:3:51, Blue Oyster Cult, classic pop and rock True Confessions, 0:2:58, Blue Oyster Cult, classic pop and rock
+
+Testing traversing "soft" inventory:
+(Don't Fear) The Reaper, 0:5:8, Blue Oyster Cult, classic pop and rock Dance The Night Away, 0:2:39, Blue Oyster Cult, classic pop and rock Debbie Denise, 0:4:11, Blue Oyster Cult, classic pop and rock Ginger Snaps - Original, 0:1:35, Blue Oyster Cult, classic pop and rock Morning Final, 0:4:15, Blue Oyster Cult, classic pop and rock Out Of Stadion - Original, 0:1:22, Blue Oyster Cult, classic pop and rock The Revenge Of Vera Gemini, 0:3:51, Blue Oyster Cult, classic pop and rock True Confessions, 0:2:58, Blue Oyster Cult, classic pop and rock
+
+
+
+Lastly displaying the first and the last songs:
+The first item: (Don't Fear) The Reaper, 0:5:8, Blue Oyster Cult, classic pop and rock
+The last item: Ginger Snaps - Original, 0:1:35, Blue Oyster Cult, classic pop and rock
+
+
+"Done with FoothillTunesStore."

@@ -1,0 +1,8 @@
+Cheese,2.99
+Egg,5.99
+Sausages,4.99
+Honey, 8.99
+Oil,17.99
+Tofu,1.79
+Butter, 5.49
+Lacroix,4.99

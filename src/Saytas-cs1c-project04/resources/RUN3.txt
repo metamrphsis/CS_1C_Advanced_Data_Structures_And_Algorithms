@@ -1,0 +1,43 @@
+-----------------------------------------------------
+-----------------------------------------------------
+Test file: resources/tunes_truncated.txt
+
+NOTES: An example of testing an empty file
+-----------------------------------------------------
+
+Welcome! We have over 59600 in FoothillTunes store!
+Total number of songs in playlists: 0
+
+Songs in each playlist:
+
+favorites:
+[]
+
+lounge:
+[]
+
+road trip:
+[]
+
+Enter your the number of songs you would like to play:
+3
+
+Playing 3 number of songs...
+
+Checking the size of each playlist:
+Playlist "favorites" has *no* songs remaining.
+Playlist "lounge" has *no* songs remaining.
+Playlist "road trip" has *no* songs remaining.
+
+Songs in each list:
+
+favorites:
+[]
+
+lounge:
+[]
+
+road trip:
+[]
+
+Done with MyTunes.

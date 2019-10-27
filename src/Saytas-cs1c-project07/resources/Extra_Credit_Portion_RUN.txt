@@ -1,0 +1,461 @@
+
+-----------------------------------------------------
+-----------------------------------------------------
+Test file: resources/findGenres.txt
+
+NOTES: Example output for the Extra Credit Portion
+       comparing the approximate running time of
+       Quadratic and sequential probing in hashing
+----------------------------------------------------
+
+Total number of songs read 59600
+Test file for id table: resources/findIDs.txt
+
+Finding song id: 2
+Song id 2 found in tableOfSongIDs.
+
+Finding song id: 3
+Song id 3 found in tableOfSongIDs.
+
+Finding song id: 4
+Song id 4 found in tableOfSongIDs.
+
+Finding song id: 99
+Song id 99 found in tableOfSongIDs.
+
+Finding song id: 99999
+Song id 99999 NOT found in tableOfSongIDs.
+Done with testing table of ids.
+
+Test file for ID table: resources/findIDs.txt
+
+Finding song ID: 2
+Song ID 2 found in tableOfSongIDs:
+
+Finding song ID: 3
+Song ID 3 found in tableOfSongIDs:
+
+Finding song ID: 4
+Song ID 4 found in tableOfSongIDs:
+
+Finding song ID: 99
+Song ID 99 found in tableOfSongIDs:
+
+Finding song ID: 99999
+Done with testing table of IDs!
+
+Test file for id table: resources/findIDs.txt
+
+Finding song id: 2
+Song id 2 found in tableOfSongIDs.
+
+Finding song id: 3
+Song id 3 found in tableOfSongIDs.
+
+Finding song id: 4
+Song id 4 found in tableOfSongIDs.
+
+Finding song id: 99
+Song id 99 found in tableOfSongIDs.
+
+Finding song id: 99999
+Song id 99999 NOT found in tableOfSongIDs.
+Done with testing table of ids.
+
+Test file for ID table: resources/findIDs.txt
+
+Finding song ID: 2
+Song ID 2 found in tableOfSongIDs:
+
+Finding song ID: 3
+Song ID 3 found in tableOfSongIDs:
+
+Finding song ID: 4
+Song ID 4 found in tableOfSongIDs:
+
+Finding song ID: 99
+Song ID 99 found in tableOfSongIDs:
+
+Finding song ID: 99999
+Done with testing table of IDs!
+
+Test file for id table: resources/findIDs.txt
+
+Finding song id: 2
+Song id 2 found in tableOfSongIDs.
+
+Finding song id: 3
+Song id 3 found in tableOfSongIDs.
+
+Finding song id: 4
+Song id 4 found in tableOfSongIDs.
+
+Finding song id: 99
+Song id 99 found in tableOfSongIDs.
+
+Finding song id: 99999
+Song id 99999 NOT found in tableOfSongIDs.
+Done with testing table of ids.
+
+Test file for ID table: resources/findIDs.txt
+
+Finding song ID: 2
+Song ID 2 found in tableOfSongIDs:
+
+Finding song ID: 3
+Song ID 3 found in tableOfSongIDs:
+
+Finding song ID: 4
+Song ID 4 found in tableOfSongIDs:
+
+Finding song ID: 99
+Song ID 99 found in tableOfSongIDs:
+
+Finding song ID: 99999
+Done with testing table of IDs!
+
+Test file for id table: resources/findIDs.txt
+
+Finding song id: 2
+Song id 2 found in tableOfSongIDs.
+
+Finding song id: 3
+Song id 3 found in tableOfSongIDs.
+
+Finding song id: 4
+Song id 4 found in tableOfSongIDs.
+
+Finding song id: 99
+Song id 99 found in tableOfSongIDs.
+
+Finding song id: 99999
+Song id 99999 NOT found in tableOfSongIDs.
+Done with testing table of ids.
+
+Test file for ID table: resources/findIDs.txt
+
+Finding song ID: 2
+Song ID 2 found in tableOfSongIDs:
+
+Finding song ID: 3
+Song ID 3 found in tableOfSongIDs:
+
+Finding song ID: 4
+Song ID 4 found in tableOfSongIDs:
+
+Finding song ID: 99
+Song ID 99 found in tableOfSongIDs:
+
+Finding song ID: 99999
+Done with testing table of IDs!
+
+Test file for id table: resources/findIDs.txt
+
+Finding song id: 2
+Song id 2 found in tableOfSongIDs.
+
+Finding song id: 3
+Song id 3 found in tableOfSongIDs.
+
+Finding song id: 4
+Song id 4 found in tableOfSongIDs.
+
+Finding song id: 99
+Song id 99 found in tableOfSongIDs.
+
+Finding song id: 99999
+Song id 99999 NOT found in tableOfSongIDs.
+Done with testing table of ids.
+
+Test file for ID table: resources/findIDs.txt
+
+Finding song ID: 2
+Song ID 2 found in tableOfSongIDs:
+
+Finding song ID: 3
+Song ID 3 found in tableOfSongIDs:
+
+Finding song ID: 4
+Song ID 4 found in tableOfSongIDs:
+
+Finding song ID: 99
+Song ID 99 found in tableOfSongIDs:
+
+Finding song ID: 99999
+Done with testing table of IDs!
+
+Test file for id table: resources/findIDs.txt
+
+Finding song id: 2
+Song id 2 found in tableOfSongIDs.
+
+Finding song id: 3
+Song id 3 found in tableOfSongIDs.
+
+Finding song id: 4
+Song id 4 found in tableOfSongIDs.
+
+Finding song id: 99
+Song id 99 found in tableOfSongIDs.
+
+Finding song id: 99999
+Song id 99999 NOT found in tableOfSongIDs.
+Done with testing table of ids.
+
+Test file for ID table: resources/findIDs.txt
+
+Finding song ID: 2
+Song ID 2 found in tableOfSongIDs:
+
+Finding song ID: 3
+Song ID 3 found in tableOfSongIDs:
+
+Finding song ID: 4
+Song ID 4 found in tableOfSongIDs:
+
+Finding song ID: 99
+Song ID 99 found in tableOfSongIDs:
+
+Finding song ID: 99999
+Done with testing table of IDs!
+
+Test file for id table: resources/findIDs.txt
+
+Finding song id: 2
+Song id 2 found in tableOfSongIDs.
+
+Finding song id: 3
+Song id 3 found in tableOfSongIDs.
+
+Finding song id: 4
+Song id 4 found in tableOfSongIDs.
+
+Finding song id: 99
+Song id 99 found in tableOfSongIDs.
+
+Finding song id: 99999
+Song id 99999 NOT found in tableOfSongIDs.
+Done with testing table of ids.
+
+Test file for ID table: resources/findIDs.txt
+
+Finding song ID: 2
+Song ID 2 found in tableOfSongIDs:
+
+Finding song ID: 3
+Song ID 3 found in tableOfSongIDs:
+
+Finding song ID: 4
+Song ID 4 found in tableOfSongIDs:
+
+Finding song ID: 99
+Song ID 99 found in tableOfSongIDs:
+
+Finding song ID: 99999
+Done with testing table of IDs!
+
+Test file for id table: resources/findIDs.txt
+
+Finding song id: 2
+Song id 2 found in tableOfSongIDs.
+
+Finding song id: 3
+Song id 3 found in tableOfSongIDs.
+
+Finding song id: 4
+Song id 4 found in tableOfSongIDs.
+
+Finding song id: 99
+Song id 99 found in tableOfSongIDs.
+
+Finding song id: 99999
+Song id 99999 NOT found in tableOfSongIDs.
+Done with testing table of ids.
+
+Test file for ID table: resources/findIDs.txt
+
+Finding song ID: 2
+Song ID 2 found in tableOfSongIDs:
+
+Finding song ID: 3
+Song ID 3 found in tableOfSongIDs:
+
+Finding song ID: 4
+Song ID 4 found in tableOfSongIDs:
+
+Finding song ID: 99
+Song ID 99 found in tableOfSongIDs:
+
+Finding song ID: 99999
+Done with testing table of IDs!
+
+Test file for id table: resources/findIDs.txt
+
+Finding song id: 2
+Song id 2 found in tableOfSongIDs.
+
+Finding song id: 3
+Song id 3 found in tableOfSongIDs.
+
+Finding song id: 4
+Song id 4 found in tableOfSongIDs.
+
+Finding song id: 99
+Song id 99 found in tableOfSongIDs.
+
+Finding song id: 99999
+Song id 99999 NOT found in tableOfSongIDs.
+Done with testing table of ids.
+
+Test file for ID table: resources/findIDs.txt
+
+Finding song ID: 2
+Song ID 2 found in tableOfSongIDs:
+
+Finding song ID: 3
+Song ID 3 found in tableOfSongIDs:
+
+Finding song ID: 4
+Song ID 4 found in tableOfSongIDs:
+
+Finding song ID: 99
+Song ID 99 found in tableOfSongIDs:
+
+Finding song ID: 99999
+Done with testing table of IDs!
+
+Test file for id table: resources/findIDs.txt
+
+Finding song id: 2
+Song id 2 found in tableOfSongIDs.
+
+Finding song id: 3
+Song id 3 found in tableOfSongIDs.
+
+Finding song id: 4
+Song id 4 found in tableOfSongIDs.
+
+Finding song id: 99
+Song id 99 found in tableOfSongIDs.
+
+Finding song id: 99999
+Song id 99999 NOT found in tableOfSongIDs.
+Done with testing table of ids.
+
+Test file for ID table: resources/findIDs.txt
+
+Finding song ID: 2
+Song ID 2 found in tableOfSongIDs:
+
+Finding song ID: 3
+Song ID 3 found in tableOfSongIDs:
+
+Finding song ID: 4
+Song ID 4 found in tableOfSongIDs:
+
+Finding song ID: 99
+Song ID 99 found in tableOfSongIDs:
+
+Finding song ID: 99999
+Done with testing table of IDs!
+
+Test file for id table: resources/findIDs.txt
+
+Finding song id: 2
+Song id 2 found in tableOfSongIDs.
+
+Finding song id: 3
+Song id 3 found in tableOfSongIDs.
+
+Finding song id: 4
+Song id 4 found in tableOfSongIDs.
+
+Finding song id: 99
+Song id 99 found in tableOfSongIDs.
+
+Finding song id: 99999
+Song id 99999 NOT found in tableOfSongIDs.
+Done with testing table of ids.
+
+Test file for ID table: resources/findIDs.txt
+
+Finding song ID: 2
+Song ID 2 found in tableOfSongIDs:
+
+Finding song ID: 3
+Song ID 3 found in tableOfSongIDs:
+
+Finding song ID: 4
+Song ID 4 found in tableOfSongIDs:
+
+Finding song ID: 99
+Song ID 99 found in tableOfSongIDs:
+
+Finding song ID: 99999
+Done with testing table of IDs!
+
+Test file for id table: resources/findIDs.txt
+
+Finding song id: 2
+Song id 2 found in tableOfSongIDs.
+
+Finding song id: 3
+Song id 3 found in tableOfSongIDs.
+
+Finding song id: 4
+Song id 4 found in tableOfSongIDs.
+
+Finding song id: 99
+Song id 99 found in tableOfSongIDs.
+
+Finding song id: 99999
+Song id 99999 NOT found in tableOfSongIDs.
+Done with testing table of ids.
+
+Test file for ID table: resources/findIDs.txt
+
+Finding song ID: 2
+Song ID 2 found in tableOfSongIDs:
+
+Finding song ID: 3
+Song ID 3 found in tableOfSongIDs:
+
+Finding song ID: 4
+Song ID 4 found in tableOfSongIDs:
+
+Finding song ID: 99
+Song ID 99 found in tableOfSongIDs:
+
+Finding song ID: 99999
+Done with testing table of IDs!
+
+Time Comparison for Find Operation Quadratic VS Sequential:
+
+Number of elements                                Quadratic                                         Sequential
+
+
+59600                                             0 hrs : 0 mins : 0 sec : 60 ms : 994547 ns        0 hrs : 0 mins : 0 sec : 177 ms : 548059 ns
+
+54600                                             0 hrs : 0 mins : 0 sec : 2 ms : 423817 ns         0 hrs : 0 mins : 0 sec : 180 ms : 519785 ns
+
+49600                                             0 hrs : 0 mins : 0 sec : 2 ms : 575299 ns         0 hrs : 0 mins : 0 sec : 119 ms : 975329 ns
+
+44600                                             0 hrs : 0 mins : 0 sec : 1 ms : 727998 ns         0 hrs : 0 mins : 0 sec : 48 ms : 138861 ns
+
+39600                                             0 hrs : 0 mins : 0 sec : 1 ms : 847439 ns         0 hrs : 0 mins : 0 sec : 50 ms : 266489 ns
+
+34600                                             0 hrs : 0 mins : 0 sec : 1 ms : 291626 ns         0 hrs : 0 mins : 0 sec : 33 ms : 971425 ns
+
+29600                                             0 hrs : 0 mins : 0 sec : 1 ms : 137185 ns         0 hrs : 0 mins : 0 sec : 30 ms : 417370 ns
+
+24600                                             0 hrs : 0 mins : 0 sec : 1 ms : 9383 ns           0 hrs : 0 mins : 0 sec : 24 ms : 59914 ns
+
+19600                                             0 hrs : 0 mins : 0 sec : 1 ms : 78415 ns          0 hrs : 0 mins : 0 sec : 20 ms : 904533 ns
+
+14600                                             0 hrs : 0 mins : 0 sec : 1 ms : 46853 ns          0 hrs : 0 mins : 0 sec : 19 ms : 364977 ns
+
+9600                                              0 hrs : 0 mins : 0 sec : 0 ms : 856129 ns         0 hrs : 0 mins : 0 sec : 12 ms : 372337 ns
+
+4600                                              0 hrs : 0 mins : 0 sec : 0 ms : 859035 ns         0 hrs : 0 mins : 0 sec : 6 ms : 278242 ns
+
+Done with MyTunes!

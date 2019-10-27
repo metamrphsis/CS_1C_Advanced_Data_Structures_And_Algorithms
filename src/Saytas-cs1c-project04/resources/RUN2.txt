@@ -1,0 +1,48 @@
+
+-----------------------------------------------------
+-----------------------------------------------------
+Test file: resources/tunes_truncated.txt
+
+NOTES: An example of testing the boundary condition
+       where we dequeue from empty playlist
+-----------------------------------------------------
+
+Welcome! We have over 59600 in FoothillTunes store!
+Total number of songs in playlists: 3
+
+Songs in each playlist:
+
+favorites:
+[Shadows - Original, 0:0:25, Blue Oyster Cult, classic pop and rock, ]
+
+lounge:
+[Solo, 0:4:41, Working Week, classic pop and rock, ]
+
+road trip:
+[Tom's Diner, 0:2:40, Suzanne Vega, classic pop and rock, ]
+
+Enter your the number of songs you would like to play:
+4
+
+Playing 4 number of songs...
+Playing song title "Shadows - Original"
+Playing song title "Solo"
+Playing song title "Tom's Diner"
+
+Checking the size of each playlist:
+Playlist "favorites" has *no* songs remaining.
+Playlist "lounge" has *no* songs remaining.
+Playlist "road trip" has *no* songs remaining.
+
+Songs in each list:
+
+favorites:
+[]
+
+lounge:
+[]
+
+road trip:
+[]
+
+Done with MyTunes.
